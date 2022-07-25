@@ -2,6 +2,8 @@
 
 Programming Language : Python & SQL 
 
+Software Used : MySQL WorkBench
+
 This program allows you to keep track of your electrical appliances and the amount of usage used monthly. 
 
 In a household or an office, there are plenty of electrical appliance used at once. Thus, it's hard to keep track how much each of the appliances used. Thus, this program help to generate a summary of the electrical usage and the monthly bill. 
