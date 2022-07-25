@@ -16,3 +16,7 @@ Some of the features includes:
 4) Database to record all the electrical appliances with the ability to alter / Input / Delete
 5) User friendly interface
 
+How to run program : 
+
+1) Create an SQL Database, with the following tables. 
+2) Run main()
